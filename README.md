@@ -1,3 +1,4 @@
+```py
 from GitHub import ReadMe
 
 class Doge(ReadMe):
