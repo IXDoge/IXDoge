@@ -29,3 +29,8 @@ class Doge(ReadMe):
         }
         self.operating_system = "Windows, Linux, MacOS"
         self.website = "https://ixdoge.com/"
+        
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=solodevOG">
+</a>
