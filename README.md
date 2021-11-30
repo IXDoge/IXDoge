@@ -18,7 +18,7 @@ class Doge(ReadMe):
         self.occupation = "Developer"
         self.projects = {
             "public": {
-                  "total": 3,
+                  "total": 4,
                   "location": "github.com/IXDoge?tab=repositories"
             },
             "paid": {
