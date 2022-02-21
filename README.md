@@ -7,7 +7,7 @@ class Doge(ReadMe):
     def __init__(self):
         self.username = "Doge"
         self.contacts = {
-            "Discord": "4wheel#2635",
+            "Discord": "4wheel#1337",
             "Telegram": None
         }
         self.alises = [
